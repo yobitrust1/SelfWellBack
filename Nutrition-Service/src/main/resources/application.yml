@@ -1,0 +1,9 @@
+server:
+  port: 9192
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost/Nutritiondb
+  application:
+    name: NUTRITION-SERVICE
+
